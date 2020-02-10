@@ -1,2 +1,1 @@
-# tindog-website
-A webpage created using HTML,CSS,Bootstrap.
+TinDog Starting Files
